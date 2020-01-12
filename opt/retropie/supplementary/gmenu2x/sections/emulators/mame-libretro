@@ -1,0 +1,6 @@
+title=mame-libretro
+description=Mame Arcade Emulator
+icon=skin:icons/mame.png
+exec=/home/pi/RetroPieNX/apps/mame-libretro.dge
+selectorbrowser=true
+selectordir=/home/pi/RetroPie/roms/mame-libretro/

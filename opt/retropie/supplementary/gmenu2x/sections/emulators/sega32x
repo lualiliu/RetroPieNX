@@ -1,0 +1,6 @@
+title=Sega32x
+description=Sega32x Emulator
+icon=skin:icons/picodrive.png
+exec=/home/pi/RetroPieNX/apps/sega32x.dge
+selectorbrowser=true
+selectordir=/home/pi/RetroPie/roms/sega32x/

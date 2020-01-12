@@ -1,0 +1,6 @@
+title=GBC
+description=Gameboy Color Emulator
+icon=skin:icons/gnuboy.png
+exec=/home/pi/RetroPieNX/apps/gbc.dge
+selectorbrowser=true
+selectordir=/home/pi/RetroPie/roms/gbc/

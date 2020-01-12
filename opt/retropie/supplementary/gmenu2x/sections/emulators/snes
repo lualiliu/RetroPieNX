@@ -1,0 +1,6 @@
+title=SNES
+description=Super Nintendo Entertainment System Emulator
+icon=skin:icons/pocketsnes.png
+exec=/home/pi/RetroPieNX/apps/snes.dge
+selectorbrowser=true
+selectordir=/home/pi/RetroPie/roms/snes/

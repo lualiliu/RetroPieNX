@@ -1,0 +1,6 @@
+title=Atari Lynx
+description=Atari Lynx Emulator
+icon=skin:icons/handy.png
+exec=/home/pi/RetroPieNX/apps/atarilynx.dge
+selectorbrowser=true
+selectordir=/home/pi/RetroPie/roms/atarilynx/

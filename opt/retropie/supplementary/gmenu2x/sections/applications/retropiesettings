@@ -1,0 +1,6 @@
+title=RetroPiesettings
+description=RetroPie Settings
+icon=skin:icons/configure.png
+exec=/home/pi/RetroPieNX/apps/retropiesettings.dge
+selectorbrowser=true
+selectordir=/home/pi/RetroPie/retropiemenu/

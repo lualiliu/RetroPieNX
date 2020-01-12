@@ -1,0 +1,3 @@
+/opt/retropie/supplementary/runcommand/runcommand.sh 0 _SYS_ psx $1
+cd /opt/retropie/supplementary/gmenu2x/
+./gmenu2x

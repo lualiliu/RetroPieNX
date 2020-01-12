@@ -1,0 +1,6 @@
+title=NES
+description=Nintendo Entertainment System Emulator
+icon=skin:icons/fceux.png
+exec=/home/pi/RetroPieNX/apps/nes.dge
+selectorbrowser=true
+selectordir=/home/pi/RetroPie/roms/nes/

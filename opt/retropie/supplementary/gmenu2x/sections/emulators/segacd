@@ -1,0 +1,6 @@
+title=Sega CD
+description=Sega CD Emulator
+icon=skin:icons/picodrive.png
+exec=/home/pi/RetroPieNX/apps/segacd.dge
+selectorbrowser=true
+selectordir=/home/pi/RetroPie/roms/segacd/

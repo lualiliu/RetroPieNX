@@ -1,0 +1,195 @@
+lvl2: 	EmulationStation - v2.8.4rp, built Jun 26 2019 - 05:24:30
+lvl2: 	Parsing XML file "/opt/retropie/supplementary/emulationstation/resources/mamenames.xml"...
+lvl2: 	Parsing XML file "/opt/retropie/supplementary/emulationstation/resources/mamebioses.xml"...
+lvl2: 	Parsing XML file "/opt/retropie/supplementary/emulationstation/resources/mamedevices.xml"...
+lvl2: 	Creating surface...
+lvl2: 	Created window successfully.
+lvl2: 	Added unconfigured joystick Microsoft X-Box 360 pad (GUID: 030000005e0400008e02000014010000, instance ID: 0, device index: 0).
+lvl2: 	Checking available OpenGL extensions...
+lvl2: 	 ARB_texture_non_power_of_two: MISSING
+lvl2: 	Loading system config file /etc/emulationstation/es_systems.cfg...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/amiga/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/amiga/../carbon.xml")
+    could not find file "" 
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/amstradcpc/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/amstradcpc/../carbon.xml")
+    could not find file "" 
+lvl1: 	System "amstradcpc" has no games! Ignoring it.
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/arcade/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/arcade/../carbon.xml")
+    could not find file "" 
+lvl1: 	System "arcade" has no games! Ignoring it.
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/atari2600/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/atari2600/../carbon.xml")
+    could not find file "" 
+lvl1: 	System "atari2600" has no games! Ignoring it.
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/atari5200/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/atari5200/../carbon.xml")
+    could not find file "" 
+lvl1: 	System "atari5200" has no games! Ignoring it.
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/atari7800/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/atari7800/../carbon.xml")
+    could not find file "" 
+lvl1: 	System "atari7800" has no games! Ignoring it.
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/atari800/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/atari800/../carbon.xml")
+    could not find file "" 
+lvl1: 	System "atari800" has no games! Ignoring it.
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/atarilynx/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/atarilynx/../carbon.xml")
+    could not find file "" 
+lvl1: 	System "atarilynx" has no games! Ignoring it.
+lvl1: 	Error - folder with path "/home/pi/RetroPie/roms/coleco" is not a directory!
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/colecovision/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/colecovision/../carbon.xml")
+    could not find file "" 
+lvl1: 	System "coleco" has no games! Ignoring it.
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/fba/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/fba/../carbon.xml")
+    could not find file "" 
+lvl1: 	System "fba" has no games! Ignoring it.
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/fds/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/fds/../carbon.xml")
+    could not find file "" 
+lvl1: 	System "fds" has no games! Ignoring it.
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/gamegear/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/gamegear/../carbon.xml")
+    could not find file "" 
+lvl1: 	System "gamegear" has no games! Ignoring it.
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/gb/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/gb/../carbon.xml")
+    could not find file "" 
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/gba/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/gba/../carbon.xml")
+    could not find file "" 
+lvl1: 	System "gba" has no games! Ignoring it.
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/gbc/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/gbc/../carbon.xml")
+    could not find file "" 
+lvl1: 	System "gbc" has no games! Ignoring it.
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/mame/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/mame/../carbon.xml")
+    could not find file "" 
+lvl1: 	System "mame-libretro" has no games! Ignoring it.
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/mame/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/mame/../carbon.xml")
+    could not find file "" 
+lvl1: 	System "mame-mame4all" has no games! Ignoring it.
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/mastersystem/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/mastersystem/../carbon.xml")
+    could not find file "" 
+lvl1: 	System "mastersystem" has no games! Ignoring it.
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/megadrive/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/megadrive/../carbon.xml")
+    could not find file "" 
+lvl1: 	System "megadrive" has no games! Ignoring it.
+lvl1: 	Error - folder with path "/home/pi/RetroPie/roms/msx" is not a directory!
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/msx/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/msx/../carbon.xml")
+    could not find file "" 
+lvl1: 	System "msx" has no games! Ignoring it.
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/n64/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/n64/../carbon.xml")
+    could not find file "" 
+lvl1: 	System "n64" has no games! Ignoring it.
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/neogeo/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/neogeo/../carbon.xml")
+    could not find file "" 
+lvl1: 	System "neogeo" has no games! Ignoring it.
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/nes/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/nes/../carbon.xml")
+    could not find file "" 
+lvl1: 	System "nes" has no games! Ignoring it.
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/ngp/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/ngp/../carbon.xml")
+    could not find file "" 
+lvl1: 	System "ngp" has no games! Ignoring it.
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/ngpc/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/ngpc/../carbon.xml")
+    could not find file "" 
+lvl1: 	System "ngpc" has no games! Ignoring it.
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/pcengine/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/pcengine/../carbon.xml")
+    could not find file "" 
+lvl1: 	System "pcengine" has no games! Ignoring it.
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/psx/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/psx/../carbon.xml")
+    could not find file "" 
+lvl1: 	System "psx" has no games! Ignoring it.
+lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/retropie/gamelist.xml"...
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/retropie/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/retropie/../carbon.xml")
+    could not find file "" 
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/sega32x/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/sega32x/../carbon.xml")
+    could not find file "" 
+lvl1: 	System "sega32x" has no games! Ignoring it.
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/segacd/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/segacd/../carbon.xml")
+    could not find file "" 
+lvl1: 	System "segacd" has no games! Ignoring it.
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/sg-1000/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/sg-1000/../carbon.xml")
+    could not find file "" 
+lvl1: 	System "sg-1000" has no games! Ignoring it.
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/snes/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/snes/../carbon.xml")
+    could not find file "" 
+lvl1: 	System "snes" has no games! Ignoring it.
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/vectrex/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/vectrex/../carbon.xml")
+    could not find file "" 
+lvl1: 	System "vectrex" has no games! Ignoring it.
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/zxspectrum/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/zxspectrum/../carbon.xml")
+    could not find file "" 
+lvl1: 	System "zxspectrum" has no games! Ignoring it.
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/auto-allgames/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/auto-allgames/../carbon.xml")
+    could not find file "" 
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/auto-favorites/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/auto-favorites/../carbon.xml")
+    could not find file "" 
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/auto-lastplayed/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/auto-lastplayed/../carbon.xml")
+    could not find file "" 
+lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/custom-collections/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/custom-collections/../carbon.xml")
+    could not find file "" 
+lvl2: 	Configuring device 0 (Microsoft X-Box 360 pad).
+lvl2: 	  Mapping [Hat 0 up] -> Up
+lvl2: 	  Mapping [Hat 0 down] -> Down
+lvl2: 	  Mapping [Hat 0 left] -> Left
+lvl2: 	  Mapping [Hat 0 right] -> Right
+lvl2: 	  Mapping [Button 7] -> Start
+lvl2: 	  Mapping [Button 6] -> Select
+lvl2: 	  Mapping [Button 0] -> A
+lvl2: 	  Mapping [Button 1] -> B
+lvl2: 	  Mapping [Button 2] -> X
+lvl2: 	  Mapping [Button 3] -> Y
+lvl2: 	  Mapping [Button 4] -> LeftShoulder
+lvl2: 	  Mapping [Button 5] -> RightShoulder
+lvl2: 	  Mapping [Axis 2+] -> LeftTrigger
+lvl2: 	  Mapping [Axis 5+] -> RightTrigger
+lvl2: 	  Mapping [Button 9] -> LeftThumb
+lvl2: 	  Mapping [Button 10] -> RightThumb
+lvl2: 	  Mapping [Axis 1-] -> LeftAnalogUp
+lvl2: 	  Mapping [Axis 1+] -> LeftAnalogDown
+lvl2: 	  Mapping [Axis 0-] -> LeftAnalogLeft
+lvl2: 	  Mapping [Axis 0+] -> LeftAnalogRight
+lvl2: 	  Mapping [Axis 4-] -> RightAnalogUp
+lvl2: 	  Mapping [Axis 4+] -> RightAnalogDown
+lvl2: 	  Mapping [Axis 3-] -> RightAnalogLeft
+lvl2: 	  Mapping [Axis 3+] -> RightAnalogRight
+lvl2: 	  Mapping [Button 8] -> HotKeyEnable
+lvl2: 		/opt/retropie/supplementary/emulationstation/scripts/inputconfiguration.sh
+lvl2: 	 req sound [basic.launch]
+lvl2: 	   (missing)
+lvl2: 	Attempting to launch game...
+lvl2: 		/opt/retropie/supplementary/runcommand/runcommand.sh 0 _SYS_ gb /home/pi/RetroPie/roms/gb/DX.gb
+lvl2: 	Creating surface...
+lvl2: 	Created window successfully.
+lvl2: 	Added known joystick Microsoft X-Box 360 pad (instance ID: 0, device index: 0)
+lvl2: 	Added known joystick Microsoft X-Box 360 pad (instance ID: 0, device index: 0)
+lvl2: 	Added/Updated 1 entities in '/etc/emulationstation/gamelists/gb/gamelist.xml'
+lvl2: 	EmulationStation cleanly shutting down.

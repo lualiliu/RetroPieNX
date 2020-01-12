@@ -1,0 +1,6 @@
+title=PSX
+description=Playstation System Emulator
+icon=skin:icons/pcsx4all.png
+exec=/home/pi/RetroPieNX/apps/psx.dge
+selectorbrowser=true
+selectordir=/home/pi/RetroPie/roms/psx/

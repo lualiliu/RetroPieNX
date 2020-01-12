@@ -1,0 +1,6 @@
+title=GBA
+description=Game Boy Advance Emulator
+icon=skin:icons/regba.png
+exec=/home/pi/RetroPieNX/apps/gba.dge
+selectorbrowser=true
+selectordir=/home/pi/RetroPie/roms/gba/

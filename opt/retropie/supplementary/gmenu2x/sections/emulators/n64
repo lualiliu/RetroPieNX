@@ -1,0 +1,6 @@
+title=N64
+description=Nintendo 64 Emulator
+icon=skin:icons/n64.png
+exec=/home/pi/RetroPieNX/apps/n64.dge
+selectorbrowser=true
+selectordir=/home/pi/RetroPie/roms/n64/

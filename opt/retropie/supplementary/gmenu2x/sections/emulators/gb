@@ -1,0 +1,6 @@
+title=GB
+description=Gameboy Emulator
+icon=skin:icons/ohboy.png
+exec=/home/pi/RetroPieNX/apps/gb.dge
+selectorbrowser=true
+selectordir=/home/pi/RetroPie/roms/gb/

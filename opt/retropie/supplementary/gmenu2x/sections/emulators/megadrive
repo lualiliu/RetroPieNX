@@ -1,0 +1,6 @@
+title=Mega Drive
+description=Sega Mega Drive Emulator
+icon=skin:icons/picodrive.png
+exec=/home/pi/RetroPieNX/apps/megadrive.dge
+selectorbrowser=true
+selectordir=/home/pi/RetroPie/roms/megadrive/
