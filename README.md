@@ -32,8 +32,8 @@ About Retropie Controller configuration,Please refer to https://retropie.org.uk/
 
 retropieNX-4.5.1-rpi1_zero.7z
 
-链接：https://pan.baidu.com/s/1CqIqyT-uNe-N9kIay0G4OQ 
+https://pan.baidu.com/s/1CqIqyT-uNe-N9kIay0G4OQ cg1t
 
-提取码：cg1t
+https://yadi.sk/d/n-rodr-J3vXhRA
 
 # Thanks
